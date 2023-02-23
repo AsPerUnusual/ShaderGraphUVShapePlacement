@@ -8,11 +8,11 @@ It could also find the UV location of texturing problems or set specific colors 
 
 A screenshot of the material controls:
 
-![Screenshot with demo content](ShaderGraphTextureMixerImage.jpg?raw=true)
+![Screenshot with demo content](materialInSceneAndSettings.jpg?raw=true)
 
 
 There is a second shape to show how the Shader Graph can be adjusted to accomodate additional shapes:
 
-![Screenshot with demo content](SaveShaderTextureScreenshot.png?raw=true)
+![Screenshot with demo content](sectionOfGraphScreenshot.jpg?raw=true)
 
 
